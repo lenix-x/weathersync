@@ -1,0 +1,55 @@
+{
+    "weather": {
+        "now_frozen": "الطقس متجمد الآن.",
+        "now_unfrozen": "الطقس لم يعد متجمداً.",
+        "invalid_syntax": "صيغة غير صحيحة، الصيغة الصحيحة هي: /weather <نوع الطقس> ",
+        "invalid_syntaxc": "صيغة غير صحيحة، استخدم /weather <نوع الطقس> بدلاً من ذلك!",
+        "updated": "تم تحديث الطقس.",
+        "invalid": "نوع الطقس غير صالح، الأنواع الصالحة هي: \nEXTRASUNNY CLEAR NEUTRAL SMOG FOGGY OVERCAST CLOUDS CLEARING RAIN THUNDER SNOW BLIZZARD SNOWLIGHT XMAS HALLOWEEN ",
+        "invalidc": "نوع الطقس غير صالح، الأنواع الصالحة هي: \nEXTRASUNNY CLEAR NEUTRAL SMOG FOGGY OVERCAST CLOUDS CLEARING RAIN THUNDER SNOW BLIZZARD SNOWLIGHT XMAS HALLOWEEN ",
+        "willchangeto": "سيتغير الطقس إلى: %{value}.",
+        "accessdenied": "تم رفض الوصول لأمر /weather."
+    },
+    "dynamic_weather": {
+        "disabled": "تم تعطيل التغيرات الديناميكية للطقس.",
+        "enabled": "تم تفعيل التغيرات الديناميكية للطقس."
+    },
+    "time": {
+        "frozenc": "الوقت متجمد الآن.",
+        "unfrozenc": "الوقت لم يعد متجمداً.",
+        "now_frozen": "الوقت متجمد الآن.",
+        "now_unfrozen": "الوقت لم يعد متجمداً.",
+        "morning": "تم ضبط الوقت على الصباح.",
+        "noon": "تم ضبط الوقت على الظهيرة.",
+        "evening": "تم ضبط الوقت على المساء.",
+        "night": "تم ضبط الوقت على الليل.",
+        "change": "تم تغيير الوقت إلى %{value}:%{value2}.",
+        "changec": "تم تغيير الوقت إلى: %{value}!",
+        "invalid": "صيغة غير صحيحة، الصيغة الصحيحة هي: time <ساعة> <دقيقة> !",
+        "invalidc": "صيغة غير صحيحة. استخدم /time <ساعة> <دقيقة> بدلاً من ذلك!",
+        "access": "تم رفض الوصول لأمر /time."
+    },
+    "blackout": {
+        "enabled": "تم تفعيل التعتيم.",
+        "enabledc": "تم تفعيل التعتيم.",
+        "disabled": "تم تعطيل التعتيم.",
+        "disabledc": "تم تعطيل التعتيم."
+    },
+    "help": {
+        "weathercommand": "تغيير الطقس.",
+        "weathertype": "نوع الطقس",
+        "availableweather": "الأنواع المتاحة: مشمس جداً، صافي، محايد، ضباب دخاني، ضبابي، غائم، غيوم، ممطر، عاصفة رعدية، ثلج، عاصفة ثلجية، ثلج خفيف، عيد الميلاد، الهالوين",
+        "timecommand": "تغيير الوقت.",
+        "timehname": "ساعات",
+        "timemname": "دقائق",
+        "timeh": "رقم بين 0 - 23",
+        "timem": "رقم بين 0 - 59",
+        "freezecommand": "تجميد / إلغاء تجميد الوقت.",
+        "freezeweathercommand": "تفعيل/تعطيل التغيرات الديناميكية للطقس.",
+        "morningcommand": "ضبط الوقت على 09:00",
+        "nooncommand": "ضبط الوقت على 12:00",
+        "eveningcommand": "ضبط الوقت على 18:00",
+        "nightcommand": "ضبط الوقت على 23:00",
+        "blackoutcommand": "تبديل وضع التعتيم."
+    }
+}
